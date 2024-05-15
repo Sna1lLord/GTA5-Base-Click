@@ -5,6 +5,7 @@
 - It was created by me, any other version you found online is most likely a scam or a virus
 - It uses a bunch of libraries created by me (some of which are available for download on my github repositories)
 - For example, it has a very fast signature scanner
+- Yes, I do know it looks exactly like cherax
 - Please leave a ⭐ if you found it interesting!
 
 # Usage
